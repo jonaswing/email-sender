@@ -155,10 +155,11 @@ function renderEmail(row) {
     Hvis dere er interessert, kan jeg videreutvikle løsningen eller utvikle noe annet dere har behov for.</p>
     <p><strong>Hvilke programvarer bruker dere mest nå?</strong><br>
     <strong>Kan jeg sende noen mer detaljerte spørsmål for å finne ut om deres behov?</strong></p>
+    <p>&nbsp;</p>
     <p>Ser frem til å høre fra dere,<br>
     Jonas Wingan</p>
     <p>
-      <img src="https://raw.githubusercontent.com/jonaswing/email-sender/main/images/image.png" alt="Jonas Wingan" width="240" style="width:240px; max-width:100%; height:auto; border:0;">
+      <img src="https://raw.githubusercontent.com/jonaswing/email-sender/main/images/image.png" alt="Jonas Wingan" width="121" height="121" style="width:121px; height:121px; object-fit:cover; border:0;">
     </p>
     <p>
       LinkedIn<br>
@@ -166,6 +167,7 @@ function renderEmail(row) {
       Github<br>
       <a href="https://github.com/jonaswing">https://github.com/jonaswing</a>
     </p>
+    <p>&nbsp;</p>
     <p>
       Jonas Wingan &amp; Co<br>
       Startuplab, Gaustadalléen 21<br>
