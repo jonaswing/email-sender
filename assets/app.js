@@ -151,8 +151,8 @@ function renderEmail(row) {
     <p>Jeg heter Jonas og utvikler programvare innen ${escapeHtml(industry)}. Jeg lurer på om dere i ${escapeHtml(company)} er interessert i et samarbeid hvor jeg lager programvare for dere gratis, imot at dere hjelper meg ved å fortelle hva dere trenger og hvilke problemer dere har som kanskje kan løses med software.</p>
     <p>På denne måten kan jeg utvikle et produkt som tilsvarende bedrifter virkelig har behov for, og dere får skreddersydd programvare gratis.</p>
     <p><strong>Link til gratis skreddersydd demo:</strong> <a href="${escapeHtml(normalizeUrl(row.demo_url) || '#')}">${escapeHtml(normalizeUrl(row.demo_url) || '…')}</a><br>
-    Jeg har også laget en gratis skreddersydd demo av en løsning jeg tror kan være nyttig for dere.<br>
-    Hvis dere er interessert, kan jeg videreutvikle løsningen eller utvikle noe annet dere har behov for.</p>
+    Jeg har også laget en gratis skreddersydd demo som et eksempel på hva jeg kan lage for dere.<br>
+    Hvis dere er interessert, kan jeg videreutvikle demoen eller utvikle noe annet dere har behov for.</p>
     <p><strong>Hvilke programvarer bruker dere mest nå?</strong><br>
     <strong>Kan jeg sende noen mer detaljerte spørsmål for å finne ut om deres behov?</strong></p>
     <p>&nbsp;</p>
