@@ -158,6 +158,9 @@ function renderEmail(row) {
     <p>Ser frem til å høre fra dere,<br>
     Jonas Wingan</p>
     <p>
+      <img src="https://raw.githubusercontent.com/jonaswing/email-sender/main/images/image.png" alt="Jonas Wingan" width="240" style="width:240px; max-width:100%; height:auto; border:0;">
+    </p>
+    <p>
       LinkedIn<br>
       <a href="https://www.linkedin.com/in/jonas-wingan-8a35051b2">www.linkedin.com/in/jonas-wingan-8a35051b2</a><br>
       Github<br>
